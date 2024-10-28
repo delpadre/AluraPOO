@@ -1,0 +1,32 @@
+casting implicito
+int x = 10;
+double y = x;
+
+casting explicito
+double x = 10.5
+int y = (int) x;
+
+comparação em java --> ==
+
+
+switch case -->
+
+switch (expressão) {
+   case valor1:
+      // código a ser executado se a expressão for igual a valor1
+      break;
+   case valor2:
+      // código a ser executado se a expressão for igual a valor2
+      break;
+   case valor3:
+      // código a ser executado se a expressão for igual a valor3
+      break;
+   ...
+   default:
+      // código a ser executado se a expressão não for igual a nenhum valor
+      break;
+}
+
+Scanner --> serve para entrada de dados, usuario digita o que quer e o dado entra no programa
+
+i++ de quanto em quanto quero incrementar ex de 1 em 1
